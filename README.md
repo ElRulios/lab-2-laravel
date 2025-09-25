@@ -37,7 +37,7 @@ Es la capa que gestiona los **datos** y la **lógica de negocio** de la aplicaci
 - Conectarse a la base de datos para **leer, escribir y actualizar información**.
 - Aplicar reglas de negocio (validaciones, cálculos, restricciones).
 
-### 2️⃣ Vista (View)**
+### 2️⃣ **Vista (View)**
 📌 **Definición:** 
 Es la capa responsable de la **interfaz** de usuario. Muestra los datos que el Controlador le envía.
 
@@ -156,7 +156,7 @@ laboratorio.
 
 [Ir a Laravel](https://laravel.com)
 [Ir a PHP](https://www.php.net/)
-[Ir a PHP](https://www.npmjs.com/)
+[Ir a NPM](https://www.npmjs.com/)
 
 
 ---
