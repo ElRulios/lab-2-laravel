@@ -57,6 +57,7 @@ Actúa como intermediario entre el Modelo y la Vista.
 - Pasar esos datos a las vistas para mostrarlos.
 - Manejar lógica de aplicación (por ejemplo, verificar si el usuario está autenticado).
 
+---
 
 ## 🛠️ Requisitos Previos
 
@@ -73,6 +74,8 @@ Asegúrate de tener instalado y configurado el siguiente entorno de desarrollo:
 | **Editor de Código** | Visual Studio Code |
 | **Node.js y NPM** | Para compilar assets |
 | **Sistema Operativo** | Windows / Linux / MacOS |
+
+---
 
 ### Instalación de Dependencias
 
@@ -127,6 +130,8 @@ php artisan config:clear
 php artisan config:cache
 ```
 
+---
+
 ## 🧩 Dificultades y Soluciones
 
 Dificultad 1: Versión antigua de Node.js
@@ -139,10 +144,13 @@ logrando contar con una versión más reciente y compatible.
 No se presentaron otras complicaciones relevantes durante el desarrollo del 
 laboratorio. 
 
+---
+
 ## 🖼️ Resultados Obtenidos
 
-<div align="center"></div>
+![Pantalla de Login](laravel.png)
 
+---
 
 ## 👨‍💻 Información del Desarrollador
 
