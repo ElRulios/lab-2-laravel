@@ -152,6 +152,15 @@ laboratorio.
 
 ---
 
+## 📚 Referencias
+
+[Ir a Laravel](https://laravel.com)
+[Ir a PHP](https://www.php.net/)
+[Ir a PHP](https://www.npmjs.com/)
+
+
+---
+
 ## 👨‍💻 Información del Desarrollador
 
 Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
